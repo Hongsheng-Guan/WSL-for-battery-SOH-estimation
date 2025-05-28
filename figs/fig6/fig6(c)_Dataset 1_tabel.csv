@@ -1,0 +1,8 @@
+method,#1,#2
+SVR,1.051,1.166
+RF,0.735,1.003
+GPR,1.454,1.790
+CNN,0.614,1.148
+Benchmark,0.470,0.945
+WSL(enough labels),0.517,0.613
+WSL(limited labels),0.675,1.196
